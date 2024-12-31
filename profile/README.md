@@ -11,7 +11,7 @@
   
 ## Links
 
-* Documentation: https://caioavidal.gitbook.io/opencoremmo/
+* Documentation: https://opencoremmo.gitbook.io/opencoremmo/
 * Discord Invite: https://discord.gg/Kazq9z2
 
 ## Show your support
